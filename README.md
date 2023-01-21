@@ -1,5 +1,4 @@
 # Amazingness Service
-
 A service that checks if a person is amazing.
 It uses a very fancy and complicated algorithm that 
 uses the name of 

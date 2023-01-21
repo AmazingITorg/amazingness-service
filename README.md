@@ -3,10 +3,6 @@ A service that checks if a person is amazing.
 It uses a very fancy and complicated algorithm that 
 uses the name of 
 a person to perform an amazingness check.
-
-
-
--------------------------------------------------------------------------------
 ## Quarkus-specific documentation part
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.

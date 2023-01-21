@@ -1,4 +1,7 @@
 # Amazingness Service
+![example workflow](https://github.com/AmazingITorg/amazingness-service/actions/workflows/build_and_test.yml/badge.svg)
+
+
 A service that checks if a person is amazing.
 It uses a very fancy and complicated algorithm that 
 uses the name of 

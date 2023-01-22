@@ -10,6 +10,8 @@ a person to perform an amazingness check.
 <div>
 <img src="https://github.com/plantuml-stdlib/gilbarbara-plantuml-sprites/blob/master/pngs/quarkus-icon.png" title="NodeJS" alt="NodeJS"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="NodeJS" alt="NodeJS" width="70" height="70"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="NodeJS" alt="NodeJS" width="70" height="70"/>
+<img src="https://github.com/plantuml-stdlib/gilbarbara-plantuml-sprites/blob/master/pngs/helm.png" title="NodeJS" alt="NodeJS" width="70" height="70"/>
 </div>
 
 ## Quarkus-specific documentation part

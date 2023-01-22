@@ -1,11 +1,17 @@
 # Amazingness Service
 ![example workflow](https://github.com/AmazingITorg/amazingness-service/actions/workflows/build_and_test.yml/badge.svg)
 
-
 A service that checks if a person is amazing.
 It uses a very fancy and complicated algorithm that 
 uses the name of 
 a person to perform an amazingness check.
+
+
+<div>
+<img src="https://github.com/plantuml-stdlib/gilbarbara-plantuml-sprites/blob/master/pngs/quarkus-icon.png" title="NodeJS" alt="NodeJS"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="NodeJS" alt="NodeJS" width="70" height="70"/>
+</div>
+
 ## Quarkus-specific documentation part
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.

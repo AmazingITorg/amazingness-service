@@ -1,4 +1,4 @@
-name: Amazingness Service Build and Test
+name: Amazingness Service CI/CD
 
 on:
   workflow_dispatch:

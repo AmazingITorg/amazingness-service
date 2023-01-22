@@ -13,7 +13,7 @@ public class AmazingnessCalculator
             "Daniel Rankov", "Alex Alexandrov", "Andrey Balevski", "Danail Denev","Daniel Obretenov", "Dimo Hristov",
             "Emil Doganov", "Emil Petleshkov", "Evgeniy Hristov", "Georgi Vasilev", "Ivan Ivanov", "Kamen Blagoev",
             "Lyubomir Tochev", "Radoslav Topalov", "Stefan Minchev", "Stoyan Stoyanov",
-            "Tsvetomira Koleva", "Vasil Beshev", "Dimitar Vasilev", "Yosif Peev", "Yordan Babukov", "Jivko Jelev". "Hristo Nestorov");
+            "Tsvetomira Koleva", "Vasil Beshev", "Dimitar Vasilev", "Yosif Peev", "Yordan Babukov", "Jivko Jelev", "Hristo Nestorov");
 
     public boolean isPersonAmazing(String name){
         LOG.info( "Somebody is trying to see if person '"+name+"' is amazing..." );

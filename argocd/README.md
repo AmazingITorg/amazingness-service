@@ -10,7 +10,7 @@ kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/st
 After that, to create the application resource for Argo use the following command:
 
 ```
-kubectl apply -n argocd -f amazing-people-app.yaml
+kubectl apply -n argocd -f amazingness-service.yaml
 ```
 
 We also need to add the helm registry repository to ArgoCD:
